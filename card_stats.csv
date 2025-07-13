@@ -1,0 +1,101 @@
+Card_Name,Set_Code,Rarity,Archetype,Meta_Relevance,Is_Reprint
+Card 1,SR01,Common,Blue-Eyes,High,Yes
+Card 2,SDK,Rare,Dark Magician,Low,No
+Card 3,LOB,Common,Dark Magician,Medium,Yes
+Card 4,BP01,Secret Rare,Blue-Eyes,Medium,No
+Card 5,SDK,Ultra Rare,Traptrix,Low,Yes
+Card 6,MP22,Ultra Rare,Hand Trap,High,Yes
+Card 7,SDK,Super Rare,Dark Magician,Low,No
+Card 8,MRD,Super Rare,Hand Trap,High,Yes
+Card 9,MP22,Ultra Rare,Dark Magician,Very High,Yes
+Card 10,BP01,Super Rare,Hand Trap,Medium,Yes
+Card 11,LOB,Rare,Traptrix,Low,Yes
+Card 12,SD41,Common,Red-Eyes,High,No
+Card 13,SR01,Super Rare,HERO,High,No
+Card 14,SDK,Super Rare,Dark Magician,Medium,Yes
+Card 15,SRL,Ultra Rare,Red-Eyes,High,Yes
+Card 16,SR01,Super Rare,Blue-Eyes,Medium,Yes
+Card 17,PHRA,Super Rare,Red-Eyes,High,Yes
+Card 18,SDK,Secret Rare,Hand Trap,Medium,No
+Card 19,SD1,Ultra Rare,HERO,High,Yes
+Card 20,SDK,Secret Rare,Traptrix,Very High,No
+Card 21,CT14,Rare,HERO,Very High,Yes
+Card 22,PHRA,Common,Dark Magician,Medium,Yes
+Card 23,PHRA,Ultra Rare,Dark Magician,Very High,No
+Card 24,DUEA,Ultra Rare,Traptrix,Low,Yes
+Card 25,SR01,Secret Rare,Traptrix,High,Yes
+Card 26,SDY,Ultra Rare,HERO,Very High,Yes
+Card 27,MP22,Super Rare,HERO,Low,No
+Card 28,SD41,Secret Rare,Dragonmaid,Medium,No
+Card 29,PHRA,Rare,Blue-Eyes,High,No
+Card 30,LOB,Common,Hand Trap,High,Yes
+Card 31,LOB,Rare,Dark Magician,Low,No
+Card 32,SD41,Common,HERO,Medium,No
+Card 33,BP01,Rare,Traptrix,Very High,Yes
+Card 34,AGOV,Secret Rare,Dragonmaid,High,No
+Card 35,SR01,Super Rare,Sky Striker,Very High,Yes
+Card 36,SDK,Rare,Dark Magician,High,Yes
+Card 37,DUEA,Secret Rare,Dragonmaid,Medium,Yes
+Card 38,MRD,Common,Dragonmaid,Low,Yes
+Card 39,SD41,Super Rare,Dark Magician,Medium,No
+Card 40,SR01,Ultra Rare,Dragonmaid,Medium,No
+Card 41,SDK,Ultra Rare,Red-Eyes,Medium,Yes
+Card 42,MRD,Ultra Rare,Hand Trap,Very High,No
+Card 43,SD2,Common,Dark Magician,Low,No
+Card 44,MP22,Super Rare,Dark Magician,Medium,Yes
+Card 45,SDK,Secret Rare,Sky Striker,Medium,No
+Card 46,SRL,Super Rare,Sky Striker,Medium,Yes
+Card 47,SD2,Secret Rare,Dark Magician,Low,Yes
+Card 48,MRD,Rare,HERO,Very High,No
+Card 49,SD2,Rare,Red-Eyes,Low,Yes
+Card 50,SD1,Common,Red-Eyes,High,No
+Card 51,SDY,Ultra Rare,Sky Striker,Medium,Yes
+Card 52,SDY,Rare,Blue-Eyes,Low,No
+Card 53,LOB,Common,Sky Striker,Medium,Yes
+Card 54,BP01,Common,HERO,Low,Yes
+Card 55,SR01,Rare,Red-Eyes,Low,Yes
+Card 56,DUEA,Secret Rare,Blue-Eyes,Low,No
+Card 57,SR01,Secret Rare,Hand Trap,High,Yes
+Card 58,SR01,Super Rare,Dragonmaid,High,No
+Card 59,SRL,Super Rare,Sky Striker,High,Yes
+Card 60,LOB,Ultra Rare,Dark Magician,Low,Yes
+Card 61,BP01,Super Rare,HERO,High,Yes
+Card 62,AGOV,Rare,Hand Trap,High,Yes
+Card 63,SD2,Secret Rare,Traptrix,Low,No
+Card 64,AGOV,Common,HERO,High,Yes
+Card 65,AGOV,Common,HERO,High,No
+Card 66,DUEA,Rare,Hand Trap,Medium,No
+Card 67,BP01,Ultra Rare,Traptrix,Low,Yes
+Card 68,SR01,Ultra Rare,Traptrix,Low,Yes
+Card 69,CT14,Rare,Traptrix,Medium,No
+Card 70,BP01,Ultra Rare,Blue-Eyes,Low,Yes
+Card 71,AGOV,Rare,Blue-Eyes,High,Yes
+Card 72,SD1,Rare,Blue-Eyes,High,No
+Card 73,AGOV,Common,Hand Trap,Medium,Yes
+Card 74,SR01,Common,Hand Trap,Very High,Yes
+Card 75,AGOV,Rare,HERO,Medium,No
+Card 76,LOB,Rare,Hand Trap,Very High,Yes
+Card 77,SDY,Rare,Dark Magician,Very High,Yes
+Card 78,SD41,Ultra Rare,Dragonmaid,Medium,No
+Card 79,CT14,Super Rare,Dragonmaid,Medium,Yes
+Card 80,SR01,Rare,Red-Eyes,High,No
+Card 81,SD41,Common,Traptrix,High,No
+Card 82,SR01,Secret Rare,Hand Trap,Low,Yes
+Card 83,AGOV,Super Rare,HERO,High,Yes
+Card 84,MRD,Secret Rare,Red-Eyes,High,No
+Card 85,SD1,Secret Rare,Dark Magician,Very High,Yes
+Card 86,SDY,Common,Red-Eyes,Low,Yes
+Card 87,CT14,Ultra Rare,Dark Magician,High,No
+Card 88,SR01,Common,Traptrix,High,No
+Card 89,CT14,Ultra Rare,Traptrix,Medium,Yes
+Card 90,SD1,Ultra Rare,HERO,High,No
+Card 91,BP01,Common,Traptrix,High,Yes
+Card 92,SD1,Secret Rare,Hand Trap,Very High,No
+Card 93,SD2,Rare,Sky Striker,Medium,Yes
+Card 94,SDY,Secret Rare,Hand Trap,Low,Yes
+Card 95,SR01,Super Rare,Dragonmaid,Medium,Yes
+Card 96,LOB,Common,Dragonmaid,Very High,Yes
+Card 97,SD2,Ultra Rare,Dragonmaid,Very High,No
+Card 98,SD1,Rare,HERO,Low,Yes
+Card 99,PHRA,Ultra Rare,Dragonmaid,Medium,No
+Card 100,LOB,Secret Rare,Dragonmaid,Low,No
