@@ -29,9 +29,6 @@ We trained a Random Forest regression model using a merged dataset constructed f
 
 - Sets that are more playable out-of-the-box (e.g., starter or structure decks) and include high-rarity or meta-relevant cards tend to have higher revenue.
 
-- The model achieved **R² = 0.287**, meaning it explains approximately 29% of the variation in set revenue. This suggests that while the selected features are meaningful, many other factors (e.g., marketing, distribution, collector trends) remain unmodeled.
-
-
 ## Requirements
 
 - Python 3.9+
